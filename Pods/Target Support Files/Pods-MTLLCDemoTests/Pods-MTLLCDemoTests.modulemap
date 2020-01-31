@@ -1,0 +1,6 @@
+framework module Pods_MTLLCDemoTests {
+  umbrella header "Pods-MTLLCDemoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
